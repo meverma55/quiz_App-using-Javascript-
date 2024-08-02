@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Quiz App </title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css" 
+    integrity="sha512-Kc323vGBEqzTmouAECnVceyQqyqdsSiqLQISBL29aUW4U/M7pSPA/gEUZQqv1cwx4OnYxTxve5UMg5GT6L4JJg=="
+    crossorigin="anonymous" referrerpolicy="no-referrer" />
+   
+</head>
+<body>
+     <!---start_box--->
+    <div class="start_btn">
+        <button>Start Quiz</button>
+    </div>
+    <!---info_box--->
+    <div class="info_box">
+        <div class="info-title">Rules of this Quiz</div>
+        <div class="info-list">
+            <div class="info">1. You will have only <span> 10 second </span> per each questions.</div>
+            <div class="info">2. Once you select your answer,it can't be undone.</div>
+            <div class="info">3. You'll get rewards on the basis of your correct answer.</div>
+            <div class="info">4. You can't exit from quiz while you are playing.</div>
+            <div class="info">5. You can't select any option once time goes off.</div>
+        </div>
+        <div class="buttons">
+            <button class="quit">Exit Quiz</button>
+            <button class="restart">Continue</button>
+        </div>
+    </div>
+     <!---Quiz_box--->
+        <div class="quiz_box">
+            <header>
+                <div class="title">Quiz Application</div>
+                <div class="timer">
+                    <div class="time_left_text">Time Left</div>
+                    <div class="timer_sec">10</div>
+                </div>
+                <div class="time_line"></div>
+            </header>
+            
+            <section>
+                <div class="que_text">
+                  <!-- <span>which of the following is true about javascript?</span>  -->
+                </div>
+                <div class="option_list">
+                  <!-- <div class="option correct disabled">javascript variable names must with a letter or the undewrscore chractors</div>
+                  <div class="icon tick">
+                    <i class="fas fa-check"></i>
+                  </div>
+                  <div class="option incorrect disabled">javascript variable names case insencitive</div>
+                  <div class="icon cross">
+                     <i class="fas fa-times"></i>
+                  </div>
+                  <div class="option disabled">javascrit variable nanes case sensitive</div>
+                  <div class="option disabled">none of above</div> -->
+                </div>  
+            </section>
+            
+             <!---footer of the Quiz--->
+             <footer>
+                <div class="total_que">
+                  <span><p>1</p>of<p></p>Question</span>
+                </div>
+                <button class="next_btn show">Next</button>
+             </footer> 
+        </div>
+
+  <!---Result Box--->
+
+<div class="result_box">
+    <div class="icon">
+        <i class="fas fa-crown"></i>
+    </div>
+    <div class="complete_text">You've complete the quiz</div>
+    <div class="score_text">
+       <span>You got 2 out of 5</span>
+    </div>
+
+    <div class="buttons">
+        <button class="restart">Restart</button>
+        <button class="quit">Quit Quiz</button> 
+    </div>
+</div>
+
+
+    <script src="script.js"></script>
+    <script src="question.js"></script>
+</body>
+</html>
