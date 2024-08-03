@@ -4,7 +4,6 @@ In this project ,I have created quiz web app where user can answer the given que
 # Start Section
 
 https://github.com/meverma55/quiz_App-using-Javascript-/blob/da1a7d6653eb22a2b7483722057347672bad1576/StartQuiz.jpeg  
-https://github.com/meverma55/quiz_App-using-Javascript-/blob/4acae7ef2cfcb81fe69b98ee23b17d083157e06c/StartQuiz.jpeg
 
 # Question Section 
 
