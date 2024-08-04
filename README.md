@@ -11,7 +11,7 @@ In this project ,I have created quiz web app where user can answer the given que
 
 # Result Section 
 
-https://github.com/meverma55/quiz_App-using-Javascript-/blob/a2746b333a8b673e6fade53bc4aea7d37cb92385/resultBox.jpeg
+![resultBox](https://github.com/user-attachments/assets/287cda5f-4740-46f8-8129-6760fe724865)
 
 # Front End
 
