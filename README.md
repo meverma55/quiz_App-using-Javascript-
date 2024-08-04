@@ -2,14 +2,12 @@
 In this project ,I have created quiz web app where user can answer the given question. 
 
 # Start Section
-  
-https://github.com/meverma55/quiz_App-using-Javascript-/blob/main/StartQuiz.jpeg
 
 ![StartQuiz](https://github.com/user-attachments/assets/1b1e662b-09d9-4540-be30-739a2c0fa624)
 
 # Question Section 
 
-https://github.com/meverma55/quiz_App-using-Javascript-/blob/846fad7416c28ddef8365232760ba4796f41bc21/questionBox.jpeg
+![questionBox](https://github.com/user-attachments/assets/8583b5d5-8091-49ed-b7ef-543b189cf6e4)
 
 # Result Section 
 
