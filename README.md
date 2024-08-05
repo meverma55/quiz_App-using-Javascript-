@@ -1,5 +1,7 @@
 # Quiz_App-using-Javascript
-In this project ,I have created quiz web app where user can answer the given question. 
+In this project ,I Developed a "Quiz Web App" using HTML,CSS and JavaScript with the aim of creating an interactive web applicatin that allows users to play quizzes and track thrie score.
+this project addresses courses outcomes realted to using JavaScript for creating interactive web pages,implementing arrays and functions, creating event-based forms and more.
+
 
 # Start Section
 
